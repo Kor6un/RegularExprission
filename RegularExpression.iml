@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task1/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task2/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task2/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task2/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task2/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task3/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task3/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task3/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task3/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task4/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task4/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task4/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task4/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task5/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task5/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task5/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task5/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task6/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task6/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task6/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task6/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task7/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task7/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task7/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/task7/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
